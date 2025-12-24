@@ -1,10 +1,10 @@
 # Full-Stack Web Development Bootcamp
-Full Stack Web Devs using - HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
+Full Stack Web Devs using - HTML, CSS, JavaScript, Node, React, PostgreSQL, Web3 and DApps
 
 ### Web Development Fundamentals
 ### HTML 5
-###CSS 3
-###Flexbox
+### CSS 3
+### Flexbox
 ### Grid
 ### Bootsrap
 ### Web Desing
